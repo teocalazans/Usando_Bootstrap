@@ -1,0 +1,26 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+.navbar {
+    background-color: #90ee90;
+}
+
+.quemsomos {
+    background-color: #f8f8ff ;
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.parceiros {
+    background-color: aquamarine;
+}
+
+.bg-footer {
+    background-color: black;
+    color: #fff;
+    
+}
